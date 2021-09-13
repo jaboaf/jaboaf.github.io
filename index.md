@@ -33,8 +33,8 @@ Some non-technical facts about me:
 
 Technical Details
 -----------------
-Name: Jojo
-Age: 21
-Height: 5 ft 11 3/4 in
-Sex: Male
-When refering to me in the third person any of the following are cool with me: he, him, they
+-  Name: Jojo
+-  Age: 21
+-  Height: 5 ft 11 3/4 in
+-  Sex: Male
+-  When refering to me in the third person any of the following are cool with me: he, him, they
