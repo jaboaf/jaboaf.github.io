@@ -6,13 +6,16 @@ Aloha!
 I’m Jojo Aboaf; welcome.
 ------------------------
 
- 
-
 Some non-technical facts about me:
 
 -   I started surfing as a 6 year-old and haven’t stopped. As a New-Yorker this
     means bringing a board bad and a wetsuit on the A train to far-rockaway in
     January. People will look at you like you’re crazy.
+    
+-   I cook a lot and an avid non-follower of recipes. I like to experiment and
+    learn about new ingredients, techniques, flavor profiles, cuisines, and
+    traditions. And I don’t let myself make the same thing twice, always
+    requiring I do something different (this can be big or small).
 
 -   I’m a life long dancer. From 1st through 8th grade I focused on ballet. Most
     of my time was at the Joffrey Ballet School where I took on various roles in
@@ -22,18 +25,16 @@ Some non-technical facts about me:
     Center! Every year of high-school, I participated in the school dance
     concert. And I’ve taken salsa classes since going to college.
 
--   I cook a lot and an avid non-follower of recipes. I like to experiment and
-    learn about new ingredients, techniques, flavor profiles, cuisines, and
-    traditions. And I don’t let myself make the same thing twice, always
-    requiring I do something different (this can be big or small).
-
 -   I played baseball since I can remember. I played catcher through freshman
     year of high-school, then I ran winter track for a season, and all of a
     sudden I was fast, life in the outfield is luxurious and I didn’t miss
     lugging my equipment everywhere. Reading fly balls coming off a bat is no
     easy task though.
 
- 
-
 Technical Details
 -----------------
+Name: Jojo
+Age: 21
+Height: 5 ft 11 3/4 in
+Sex: Male
+When refering to me in the third person any of the following are cool with me: he, him, they
