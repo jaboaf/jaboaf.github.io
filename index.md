@@ -14,8 +14,7 @@ Some non-technical facts about me:
     
 -   I cook a lot and an avid non-follower of recipes. I like to experiment and
     learn about new ingredients, techniques, flavor profiles, cuisines, and
-    traditions. And I don’t let myself make the same thing twice, always
-    requiring I do something different (this can be big or small).
+    traditions. And I try not to make the same exact thing twice.
 
 -   I’m a life long dancer. From 1st through 8th grade I focused on ballet. Most
     of my time was at the Joffrey Ballet School where I took on various roles in
@@ -35,6 +34,5 @@ Technical Details
 -----------------
 -  Name: Jojo
 -  Age: 21
--  Height: 5 ft 11 3/4 in
 -  Sex: Male
 -  When refering to me in the third person any of the following are cool with me: he, him, they
