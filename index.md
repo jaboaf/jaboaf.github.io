@@ -3,6 +3,7 @@ Aloha!
 
 Pages:
 [OG Papers](OGpapers.md)
+[checking in](checkin.md)
  
 
 I’m Jojo Aboaf; welcome.
