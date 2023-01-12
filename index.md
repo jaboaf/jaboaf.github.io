@@ -3,9 +3,15 @@ hi !
 
 I am jojo.
 
-Pages: [checking in](checkin.md)
+I surf, dance, love, cook, draw, ski, explore, listen to music, read, and other things too.
 
- 
+Also, I write computer programs. Sometimes to
+- play tic-tac-toe perfectly
+- obtain data
+- visualize data
+- analyze data. 
+
+Pages: [checking in](checkin.md)
 
 Two Definitions (Miriam-Webster)
 --------------------------------
@@ -32,8 +38,6 @@ for what cause, reason or purpose
 
 —\> used to express mild surprise, hesitation, approval, disapproval, or
 impatience
-
- 
 
 ### how
 
