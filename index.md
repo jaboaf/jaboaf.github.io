@@ -3,13 +3,21 @@ hi !
 
 I am jojo.
 
-I surf, dance, love, cook, draw, ski, explore, listen to music, read, and other things too.
+I surf, dance, love, cook, draw, ski, explore, listen to music, read, and other things.
 
 Also, I write computer programs. Sometimes to
-- play tic-tac-toe perfectly
-- obtain data
-- visualize data
-- analyze data. 
+- play a game perfectly 
+- obtain data from the internet
+- visualize data, functions, or surfaces
+- analyze data, functions, or surfaces
+- find the value(s) of an argument of a function with a property
+- play
+- experiment
+- better understand a language
+
+
+
+
 
 Pages: [checking in](checkin.md)
 
