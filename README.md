@@ -1,6 +1,3 @@
 jaboaf.github.io
 ================
-
- 
-
-Hello there.
+hello.
