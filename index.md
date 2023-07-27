@@ -3,12 +3,11 @@ welcome !
 
 I am jojo. I draw, dance, surf, ski, cook, love, play, experiment, build, ...
 
-... and program. it can be delighting. useful too.
-- to obtain data from the internet
-- to make pictures depicting data, functions, ...
+I program too, it can be a delighting. often i am 
+- making pictures depicting ~data~, functions, ...
 - building and trying out methods or strategies to answer a question or solve a problem 
 
-most of the time programming, is playing or exploring.
+most of the time programming, is playing or exploring. i am a beginner.
 
 i run a pretty experimental 'shop' so the dress code is fairly casual. i dont mind too much. it does pain me to look back at experiments gone awry, especially reflecting attitudes or characters distracting from or missing certain aspects of the experience. but thats life and how it be regardless of much else. 
 
@@ -16,9 +15,8 @@ ideally, the stuff i share is accessible and digestible and not used for evil or
 in the mean time if you have a thought or question abt something you come across feel free to (reach out)[contacting.md]
 
 [plugs](plug.md)
-lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), math
 
-visuals!!!
+lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), math
 
 [Riemann Surface of kth root for k in 1:16](RiemannSurfacesOf1stRootTo16thRoot.pdf)
 
@@ -26,13 +24,13 @@ visuals!!!
 
 ![n term aproximation of log(p) for p <= n ](viz/asymaprxLogOfPrimes.gif)
 
-![Empirical Distribution Judge Scores of WSL Mens CT 2017,2018, and 2019](viz/EDFofJudgeScores.png) ![Empirical Distrbution of Second Digit or Judge Scores ... ](EDFof2ndDigitOfJudgeScores.png)
+![Empirical Distribution Judge Scores of WSL Mens CT 2017,2018, and 2019](viz/EDFofJudgeScores.png) ![Empirical Distrbution of Second Digit or Judge Scores ... ](viz/EDFof2ndDigitOfJudgeScores.png)
 
 Collatz Seqs
 ![100 seqs](Collatz/CollatzDictSeqs100.png) ![500 seqs](Collatz/CollatzDictSeqs500.png) ![1000 seqs](CCollatz/ollatzDictSeqs1000.png)
 
 <p>
-<img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="400"/>
-<img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="400"/>
+<img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="600"/>
+<img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="600"/>
 <p>
 ![Permutation Vector Fields in 2 space acting on some rational points](viz/PermVectFieldsIn2.png)
