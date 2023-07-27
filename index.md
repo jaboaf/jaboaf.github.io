@@ -21,20 +21,23 @@ fun pages:
 
 visuals!!!
 
-[Riemann Surface of kth root for k in 1:16](RiemannSurfacesOf1stRootTo16thRoot.pdf)
-[n term aproximation of log(p) for p <= n ](asymaprxLogOfPrimes.gif)
+![Riemann Surface of kth root for k in 1:16](RiemannSurfacesOf1stRootTo16thRoot.pdf)
 
-[Permutation Vector Fields in 3 space acting on some rational points](PermVectFieldsIn3.png)
-[Permutation Vector Fields in 2 space acting on some rational points](PermVectFieldsIn2.png)
+![n term aproximation of log(p) for p <= n ](asymaprxLogOfPrimes.gif)
 
-[Empirical Distribution Judge Scores of WSL Mens CT 2017,2018, and 2019](EDFofJudgeScores.PNG)
-[Empirical Distrbution of Second Digit or Judge Scores ... ](EDFof2ndDigitOfJudgeScores.PNG)
+![Permutation Vector Fields in 3 space acting on some rational points](PermVectFieldsIn3.png)
 
-[what US tsy bill daily composite quotes might look like if you just HAD to](RatesPlots.html)
+![Permutation Vector Fields in 2 space acting on some rational points](PermVectFieldsIn2.png)
+
+![Empirical Distribution Judge Scores of WSL Mens CT 2017,2018, and 2019](EDFofJudgeScores.PNG)
+
+![Empirical Distrbution of Second Digit or Judge Scores ... ](EDFof2ndDigitOfJudgeScores.PNG)
+
+![what US tsy bill daily composite quotes might look like if you just HAD to](RatesPlots.html)
 
 Collatz Seqs
-[100 seqs](CollatzDictSeqs100.PNG)
-[500 seqs](CollatzDictSeqs500.PNG) 
-[1000 seqs](CollatzDictSeqs1000.PNG)
+![100 seqs](CollatzDictSeqs100.PNG)
+![500 seqs](CollatzDictSeqs500.PNG) 
+![1000 seqs](CollatzDictSeqs1000.PNG)
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), Math
