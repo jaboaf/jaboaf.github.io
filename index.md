@@ -18,19 +18,26 @@ in the mean time if you have a thought or question abt something you come across
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), math
 
-[Riemann Surface of kth root for k in 1:16](RiemannSurfacesOf1stRootTo16thRoot.pdf)
+[Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf)
 
 [what US tsy bill daily composite quotes might look like if you just HAD to](viz/RatesPlots.html)
 
 ![n term aproximation of log(p) for p <= n ](viz/asymaprxLogOfPrimes.gif)
 
-![Empirical Distribution Judge Scores of WSL Mens CT 2017,2018, and 2019](viz/EDFofJudgeScores.png) ![Empirical Distrbution of Second Digit or Judge Scores ... ](viz/EDFof2ndDigitOfJudgeScores.png)
+**Empirical Distribution Judge Scores of WSL Mens CT 2017,2018,and 2019**
+![](viz/EDFofJudgeScores.png)
+
+**Empirical Distribution of the Second Digit of Judge Scores of WSL Mens CT 2017,2018,and 2019**
+![](viz/EDFof2ndDigitOfJudgeScores.png)
 
 Collatz Seqs
-![100 seqs](Collatz/CollatzDictSeqs100.png) ![500 seqs](Collatz/CollatzDictSeqs500.png) ![1000 seqs](CCollatz/ollatzDictSeqs1000.png)
+<p>
+<img src="Collatz/CollatzDictSeqs100.png" alt="100 seqs" width="100">
+<img src="Collatz/CollatzDictSeqs500.png" alt="500 seqs" width="400">
+<img src="Collatz/CollatzDictSeqs1000.png" alt="1000 seqs" width="500">
+<p>
 
 <p>
-<img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="600"/>
-<img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="600"/>
+<img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="400"/>
+<img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="400"/>
 <p>
-![Permutation Vector Fields in 2 space acting on some rational points](viz/PermVectFieldsIn2.png)
