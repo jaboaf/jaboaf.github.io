@@ -19,9 +19,11 @@ in the mean time if you have a thought or question abt something you come across
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), math
 
+i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FORTH, Prolog,
+
 [Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf)
 
-[what US tsy bill daily composite quotes might look like](viz/RatesPlots.html)
+[what some US tsy bill daily FINRA composite quotes might like if you just had them](viz/RatesPlots.html)
 
 ![n term aproximation of log(p) for p <= n ](viz/asymaprxLogOfPrimes.gif)
 
@@ -33,12 +35,12 @@ lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-)
 
 Collatz Seqs
 <p>
-<img src="Collatz/CollatzDictSeqs100.png" alt="100 seqs" width="100"/>
-<img src="Collatz/CollatzDictSeqs500.png" alt="500 seqs" width="400"/>
-<img src="Collatz/CollatzDictSeqs1000.png" alt="1000 seqs" width="500"/>
-<p>
+<img src="Collatz/CollatzDictSeqs100.png" alt="100 seqs" width="100">
+<img src="Collatz/CollatzDictSeqs500.png" alt="500 seqs" width="400">
+<img src="Collatz/CollatzDictSeqs1000.png" alt="1000 seqs" width="500">
+</p>
 
 <p>
-<img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="400"/>
-<img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="400"/>
-<p>
+<img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="400">
+<img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="400">
+</p>
