@@ -35,9 +35,9 @@ i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FOR
 
 Collatz Seqs
 <p>
-<img src="Collatz/CollatzDictSeqs100.png" alt="100 seqs" width="100">
-<img src="Collatz/CollatzDictSeqs500.png" alt="500 seqs" width="400">
-<img src="Collatz/CollatzDictSeqs1000.png" alt="1000 seqs" width="500">
+<img src="collatz/CollatzDictSeqs100.png" alt="100 seqs" width="100">
+<img src="collatz/CollatzDictSeqs500.png" alt="500 seqs" width="400">
+<img src="collatz/CollatzDictSeqs1000.png" alt="1000 seqs" width="500">
 </p>
 
 <p>
