@@ -19,7 +19,19 @@ in the mean time if you have a thought or question abt something you come across
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), math
 
-i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FORTH, Prolog,
+i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, NDL or a successor
+
+i will have a computer running FreeDOS shortly.
+
+scribbles
+- [pen and pencil on papers](scribbles/penandpencilonpapers/!.md)
+- [pencil on paper](scribbles/pencilonpaper/!.md)
+- [pen on paper](scribbles/penonpaper/!.md)
+- [chalk on board on wall](scribbles/chalkonboardonwall/!.md)
+
+[correspondences](correspondences.md)
+
+### some visuals
 
 [Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf)
 
