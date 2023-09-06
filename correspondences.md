@@ -11,6 +11,7 @@ Thanks for your help, Jojo
 P.s. I wake up every day thinking about algebra in statistics, your work is inspiring.
 ### Apr 9, 2021, 3:40 PM
 Hi Jojo,
+
 sorry for the late reply! I'm a bit overcommitted at the moment. 
 
 I believe you are looking for an equation like [system of equations (6) here](https://arxiv.org/pdf/1407.1004.pdf). This paper is about beta-hypegraphs but if you just let every edge be of size 2, you get the beta-model for graphs. 
@@ -18,11 +19,17 @@ I believe you are looking for an equation like [system of equations (6) here](ht
 I hope this is what you are looking for!
 
 p.s. 
+
 In case you'd like to dig in more, check out these resources which look like they are written up fairly concretely:
+
 https://www.stat.umn.edu/geyer/5421/slides/expfam.html
+
 https://dash.harvard.edu/bitstream/handle/1/2757495/bartz_montecarlo.pdf?sequence=4
+
 The first one gives the general context of exponential families and how to find MLEs there. We know a lot about exponential families.
+
 Here is another post that discusses which families of distributions *may* have closed form solutions: 
+
 https://stats.stackexchange.com/questions/32103/which-distributions-have-closed-form-solutions-for-maximum-likelihood-estimation
 
 ```how awesome```
@@ -38,7 +45,9 @@ I desire your thoughts and feedback on this ~project~. Would that be possible? Y
 Thank you for the opportunity to do this project (it also helped distract me the past couple of days), I hope you enjoy it. I am sorry that it is not "polished", I was more focused on content.
 
 Sincerely,
+
 Jojo
+
 [CamScanner 12-15-2021 04.56-1.pdf](CamScanner 12-15-2021 04.56-1.pdf)
 
 ```
@@ -56,5 +65,7 @@ Hi!
 (Very separate from my other email) I want your help. These things interest me and you know a lot about them. I think it would be fun to explore and create with you. In particular, the analysis/number theory using roots of 1. (If you think it's all useless that would be good to know, too).
 
 Best,
+
 Jojo
+
 [FinalOfSomething.pdf](writings/FinalOfSomething.pdf)
