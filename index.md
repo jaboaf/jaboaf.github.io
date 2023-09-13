@@ -4,7 +4,7 @@ welcome !
 I am jojo. I draw, dance, surf, ski, cook, love, play, experiment, build, ...
 
 I program too, it can be a delighting. often i am 
-- making pictures depicting ~data~, functions, ...
+- making pictures or animations depicting ~data~, functions, ...
 - building and trying out methods or strategies to answer a question or solve a problem 
 
 most of the time programming, is playing or exploring. i am a beginner.
@@ -17,7 +17,7 @@ in the mean time if you have a thought or question abt something you come across
 
 [plugs](plug.md)
 
-lingos: French, English, F# (2017), Java (2017-8), Python (2018-9, Julia (2019-), math
+lingos: French, English, F# (2017), Java (2017-8), Python (2018-9), Julia (2019-), math
 
 i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, NDL or a successor
 
