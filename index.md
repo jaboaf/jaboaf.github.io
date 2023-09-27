@@ -31,7 +31,7 @@ i hope to build my own hardware.
 
 [github repositories](https://github.com/jaboaf?tab=repositories)
 
-some scribbles!
+some [scribbles!](scribbles/!.md)
 - [chalk on board on wall](scribbles/chalkonboardonwall/!.md)
 - [pen and pencil on papers](scribbles/penandpencilonpapers/!.md)
 - [pen on paper](scribbles/penonpaper/!.md)
