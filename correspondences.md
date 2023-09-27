@@ -68,4 +68,4 @@ Best,
 
 Jojo
 
-[FinalOfSomething.pdf](cor/FinalOfSomething.pdf)
+[FinalOfSomething.pdf](cor/FinalofSomething.pdf)
