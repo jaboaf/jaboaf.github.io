@@ -48,7 +48,7 @@ Sincerely,
 
 Jojo
 
-[CamScanner 12-15-2021 04.56-1.pdf](CamScanner 12-15-2021 04.56-1.pdf)
+[CamScanner 12-15-2021 04.56-1.pdf](cor/CamScanner%2012-15-2021%2004.56-1.pdf)
 
 ```
 *hard copy MIA*
@@ -68,4 +68,4 @@ Best,
 
 Jojo
 
-[FinalOfSomething.pdf](writings/FinalOfSomething.pdf)
+[FinalOfSomething.pdf](cor/FinalOfSomething.pdf)
