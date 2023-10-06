@@ -9,30 +9,15 @@ Is there a closed form solution for the beta-model MLE?
 
 Thanks for your help, Jojo
 P.s. I wake up every day thinking about algebra in statistics, your work is inspiring.
-### Apr 9, 2021, 3:40 PM
-Hi Jojo,
 
-sorry for the late reply! I'm a bit overcommitted at the moment. 
-
-I believe you are looking for an equation like [system of equations (6) here](https://arxiv.org/pdf/1407.1004.pdf). This paper is about beta-hypegraphs but if you just let every edge be of size 2, you get the beta-model for graphs. 
-
-I hope this is what you are looking for!
-
-p.s. 
-
-In case you'd like to dig in more, check out these resources which look like they are written up fairly concretely:
-
+```
+awesome
+equation like [system of equations (6) here](https://arxiv.org/pdf/1407.1004.pdf).
+other resources,written concretely:
 https://www.stat.umn.edu/geyer/5421/slides/expfam.html
-
 https://dash.harvard.edu/bitstream/handle/1/2757495/bartz_montecarlo.pdf?sequence=4
-
-The first one gives the general context of exponential families and how to find MLEs there. We know a lot about exponential families.
-
-Here is another post that discusses which families of distributions *may* have closed form solutions: 
-
 https://stats.stackexchange.com/questions/32103/which-distributions-have-closed-form-solutions-for-maximum-likelihood-estimation
-
-```how awesome```
+```
 
 ## Laurent Saloff-Coste
 ### Wed, Dec 15, 2021, 5:17 AM

@@ -39,9 +39,11 @@ some [scribbles!](scribbles/!.md)
 
 ### some visuals
 
-[Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf)
+[Some Conditional Empirical Processes](ConditionalEmpiricalProcess/!.html)
 
-[what some US tsy bill daily FINRA composite quotes might like if you just had them](viz/RatesPlots.html)
+[what some US tsy bill daily FINRA composite quotes might like if you had them](viz/RatesPlots.html)
+
+[Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf)
 
 ![n term aproximation of log(p) for p <= n ](viz/asymaprxLogOfPrimes.gif)
 
@@ -50,8 +52,6 @@ some [scribbles!](scribbles/!.md)
 
 **Empirical Distribution of the Second Digit of Judge Scores of WSL Mens CT 2017,2018,and 2019**
 ![](viz/EDFof2ndDigitOfJudgeScores.png)
-
-[**Some Conditional Empirical Processes**](ConditionalEmpiricalProcess/!.html)
 
 **The First 100, 500, and 1000 Collatz Sequences**
 <p>
