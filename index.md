@@ -15,13 +15,11 @@ i dont mind too much.
 it does pain me to look back at experiments gone awry, especially reflecting attitudes or a character distracting from or missing certain important aspects of the experience.
 but thats life and how it be regardless of much else. 
 
-ideally, the [stuff](https://github.com/jaboaf?tab=repositories) i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
+ideally, the [stuff](stuff.md) i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9), Julia (2019-), math
 
 i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, NDL or a successor
-
-i hope to have a computer running FreeDOS shortly.
 
 i hope to build my own hardware.
 
