@@ -29,15 +29,13 @@ i hope to build my own hardware.
 
 [github repositories](https://github.com/jaboaf?tab=repositories)
 
+[possible football rules](possiblefootballrules.md)
+
 some [scribbles!](scribbles/!.md)
 - [chalk on board on wall](scribbles/chalkonboardonwall/!.md)
 - [pen and pencil on papers](scribbles/penandpencilonpapers/!.md)
 - [pen on paper](scribbles/penonpaper/!.md)
 - [pencil on paper](scribbles/pencilonpaper/!.md)
-
-[possible football rules](possiblefootballrules.md)
-
-### some visuals
 
 [Some Conditional Empirical Processes](ConditionalEmpiricalProcess/!.html)
 
