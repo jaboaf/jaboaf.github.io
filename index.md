@@ -35,6 +35,8 @@ some [scribbles!](scribbles/!.md)
 - [pen on paper](scribbles/penonpaper/!.md)
 - [pencil on paper](scribbles/pencilonpaper/!.md)
 
+[possible football rules](possiblefootballrules.md)
+
 ### some visuals
 
 [Some Conditional Empirical Processes](ConditionalEmpiricalProcess/!.html)
