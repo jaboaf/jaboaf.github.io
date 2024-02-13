@@ -16,16 +16,13 @@ I am jojo. I draw, dance, surf, ski, cook, love, play, experiment, build, ...
 I program too, it can be a delighting. often i am 
 - making pictures or animations depicting ~data~, functions, ...
 - building and trying out methods or strategies to answer a question or solve a problem 
-- exploring the sounds of sequeneces of some bytes 
+- exploring the sounds of sequeneces of some bytes or looks of some bit arrangements
 
 most of the time programming, is playing or exploring. i am a beginner. exciting!
 
 i run a pretty experimental 'shop' so the dress code is fairly casual.
 i dont mind too much.
 as such, this serve a partially blind record of [the shit](https://github.com/jaboaf) we do around here
-
-it does pain me to look back at experiments gone awry, especially reflecting attitudes or a character distracting from or missing certain important aspects of the experience.
-but thats life and how it be regardless of much else. 
 
 ideally, the stuff i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
 
@@ -67,3 +64,6 @@ some lingos I hope to learn: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, As
 <img src="viz/PermVectFieldsIn2.png" alt="Permutation Vector Fields in 2 space acting on some rational points" width="600">
 <img src="viz/PermVectFieldsIn3.png" alt="Permutation Vector Fields in 3 space acting on some rational points" width="600">
 </p>
+
+it does pain me to look back at experiments gone awry, especially reflecting attitudes or a character distracting from or missing certain important aspects of the experience.
+but thats life and how it be regardless of much else.
