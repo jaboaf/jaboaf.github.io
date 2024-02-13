@@ -36,11 +36,11 @@ some lingos I hope to learn: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, As
 
 [acredited coursework](acreditedcoursework.md)
 
-[Some Conditional Empirical Processes](ConditionalEmpiricalProcess/!.html)
+[Some Conditional Empirical Processes w/ Surf Comp Judging Panels](ConditionalEmpiricalProcess/!.html) (there are some funky visuals)
 
-[what some US tsy bill daily FINRA composite quotes might like if you had them](viz/RatesPlots.html)
+[what some US tsy bill daily FINRA composite quotes might like if you had them](viz/RatesPlots.html) (10s of patience)
 
-[Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf)
+[Riemann Surface of kth root for k in 1:16](viz/RiemannSurfacesOf1stRootTo16thRoot.pdf), a depiction
 
 ![n term aproximation of log(p) for p <= n ](viz/asymaprxLogOfPrimes.gif)
 
