@@ -1,5 +1,15 @@
-welcome !
+hello !
 ====
+
+welcome to my digital abode of sorts.
+
+[appreciations](appreciations.md), thank you.
+
+some [scribbles!](scribbles/!.md)
+- [pen on paper](scribbles/penonpaper/!.md)
+- [pencil on paper](scribbles/pencilonpaper/!.md)
+- [chalk on board on wall](scribbles/chalkonboardonwall/!.md)
+- [pen and pencil on papers](scribbles/penandpencilonpapers/!.md)
 
 I am jojo. I draw, dance, surf, ski, cook, love, play, experiment, build, ...
 
@@ -12,18 +22,16 @@ most of the time programming, is playing or exploring. i am a beginner. exciting
 
 i run a pretty experimental 'shop' so the dress code is fairly casual.
 i dont mind too much.
+as such, this serve a partially blind record of [the shit](https://github.com/jaboaf) we do around here
+
 it does pain me to look back at experiments gone awry, especially reflecting attitudes or a character distracting from or missing certain important aspects of the experience.
 but thats life and how it be regardless of much else. 
 
-ideally, the [stuff](stuff.md) i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
+ideally, the stuff i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9), Julia (2019-), math
 
-i hope to explore computer programming in: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, NDL or a successor
-
-i hope to build my own hardware.
-
-[appreciations](appreciations.md)
+some lingos I hope to learn: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, Assembly
 
 [correspondences](correspondences.md)
 
@@ -31,11 +39,7 @@ i hope to build my own hardware.
 
 [possible football rules](possiblefootballrules.md)
 
-some [scribbles!](scribbles/!.md)
-- [chalk on board on wall](scribbles/chalkonboardonwall/!.md)
-- [pen and pencil on papers](scribbles/penandpencilonpapers/!.md)
-- [pen on paper](scribbles/penonpaper/!.md)
-- [pencil on paper](scribbles/pencilonpaper/!.md)
+[acredited coursework](acreditedcoursework.md)
 
 [Some Conditional Empirical Processes](ConditionalEmpiricalProcess/!.html)
 
