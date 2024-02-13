@@ -5,7 +5,7 @@ welcome to my digital abode of sorts.
 
 [appreciations](appreciations.md), thank you.
 
-some [scribbles!](scribbles/!.md)
+some [scribbles](scribbles/!.md)
 - [pen on paper](scribbles/penonpaper/!.md)
 - [pencil on paper](scribbles/pencilonpaper/!.md)
 - [chalk on board on wall](scribbles/chalkonboardonwall/!.md)
@@ -16,23 +16,21 @@ I am jojo. I draw, dance, surf, ski, cook, love, play, experiment, build, ...
 I program too, it can be a delighting. often i am 
 - making pictures or animations depicting ~data~, functions, ...
 - building and trying out methods or strategies to answer a question or solve a problem 
-- exploring the sounds of sequeneces of some bytes or looks of some bit arrangements
+- exploring the sounds or looks of some bit arrangements
 
-most of the time programming, is playing or exploring. i am a beginner. exciting!
+most of the time programming, is playing or exploring. i am a beginner, in the scope of programmers, which is exciting!
 
-i run a pretty experimental 'shop' so the dress code is fairly casual.
+i run a pretty experimental 'shop' so the dress code ended up fairly casual.
 i dont mind too much.
-as such, this serve a partially blind record of [the shit](https://github.com/jaboaf) we do around here
+the experimental tilt has led to a fairly blind record of the [shit we do around here](https://github.com/jaboaf). the recent addition of[book](https://github.com/jaboaf/book)s added some color.
 
-ideally, the stuff i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
+ideally, the stuff i share is accessible and digestible and not used for evil or undue detriment; and that i share stuff accessibly and digestibly and not maliciously. alas, 'public' will do, as a start. in the mean time if you have a thought or question abt something you come across feel free to [reach out](contacting.md)
 
 lingos: French, English, F# (2017), Java (2017-8), Python (2018-9), Julia (2019-), math
 
 some lingos I hope to learn: Fortran 77, REBOL, C, Postscript, FORTH, Prolog, Assembly
 
 [correspondences](correspondences.md)
-
-[github repositories](https://github.com/jaboaf?tab=repositories)
 
 [possible football rules](possiblefootballrules.md)
 
