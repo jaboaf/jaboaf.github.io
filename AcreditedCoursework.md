@@ -1,7 +1,7 @@
 |year|term|school|dept|num|name|units|
 |----|----|------|----|---|----|------------|
 |2023|summer|Cornell University|MUSIC|1465|Computing in the Arts|3|
-|2023|spring|Cornell University|CS|7190|Seminar in Programming Languages|1|
+|2023|spring|Cornell University|CS|7190|Seminar in Programming Languages and Compilers|1|
 |2022|spring|Cornell University|ENGL|2890|Expository Writing (TV Nation)|4|
 |2022|spring|Cornell University|MATH|4180|Complex Analysis|4|
 |2022|spring|Cornell University|MATH|6120|Complex Analysis|4|
